@@ -70,7 +70,7 @@ employee-directory/
 
 ## Setup and Installation
 
-### Method 1: Using Live Server Extension (Recommended)
+### Method : Using Live Server Extension (Recommended)
 
 1. **Install Live Server Extension**
    - Open VS Code
@@ -87,33 +87,6 @@ employee-directory/
    - Right-click on `index.html`
    - Select "Open with Live Server"
    - Browser will automatically open with the application
-
-### Method 2: Using Python HTTP Server
-
-```bash
-# Navigate to project directory
-cd employee-directory
-
-# Start Python server
-python -m http.server 8000
-
-# Open browser and go to http://localhost:8000
-```
-
-### Method 3: Using Node.js HTTP Server
-
-```bash
-# Install http-server globally (one time)
-npm install -g http-server
-
-# Navigate to project directory
-cd employee-directory
-
-# Start server
-http-server
-
-# Open browser and go to the provided URL
-```
 
 ## Usage
 
@@ -251,5 +224,5 @@ This project is created as a demonstration of front-end development skills and i
 
 For questions or feedback about this project, feel free to reach out:
 
-**Kubendiran P**  
-📧 Email: kubendiranpalani289@gmail.com
+**Ibrahim Shaik**  
+📧 Email: ibrahimkhalandar02@gmail.com
