@@ -224,5 +224,6 @@ This project is created as a demonstration of front-end development skills and i
 
 For questions or feedback about this project, feel free to reach out:
 
-**Ibrahim Shaik**  
+**Ibrahim Shaik** 
+
 📧 Email: ibrahimkhalandar02@gmail.com
